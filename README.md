@@ -683,10 +683,6 @@ The quantized TFLite model (`4TrainedModel.tflite`) offers:
 - Add confusion matrix and detailed performance metrics
 - Implement real-time digit recognition from camera feed
 
-## License
-
-[Add your license here]
-
 ## Author
 
-[Add your name/contact here]
+Yassine OUJAMA
